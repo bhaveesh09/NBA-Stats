@@ -1,5 +1,7 @@
 # NBA-Stats
 
+**If trying to clone and run the application, make sure to "npm -i" to install all dependencies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
